@@ -1,0 +1,848 @@
+[
+  {
+    "series":"Series 1",
+    "card":"Card 1",
+    "asset":"ZENCOCO",
+    "issuance":"99",
+    "artist":"subterranean",
+    "link":"https://horizon.market/explorer/assets/ZENCOCO",
+    "image":"https://www.arweave.net/Chr8Ok_kQ7zZMPJlglTNC7rJUPKtZl3QBnQN3vUhnp0/ZENCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 2",
+    "asset":"COCODENZA",
+    "issuance":"21",
+    "artist":"HNFT Pepe",
+    "link":"https://horizon.market/explorer/assets/COCODENZA",
+    "image":"https://www.arweave.net/jYCAd98opu1GkoZ5lLplcFXsEnW1XfO8JbTuriMTojo/COCODENZA.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 3",
+    "asset":"LACOCO",
+    "issuance":"100",
+    "artist":"HNFT Pepe",
+    "link":"https://horizon.market/explorer/assets/LACOCO",
+    "image":"https://www.arweave.net/x5fW9fwLZ6Owtbv4HbsjxoYF0YrcCQgc-cOJBAu5QEE/LACOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 4",
+    "asset":"COCOMANIA",
+    "issuance":"32",
+    "artist":"Y8R4",
+    "link":"https://horizon.market/explorer/assets/COCOMANIA",
+    "image":"https://www.arweave.net/Y28vsWxvWxjInslTXeoUeJzfjaOB7NJE-5zljcQw1DM/COCOMANIA.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 5",
+    "asset":"COCOHOMER",
+    "issuance":"12",
+    "artist":"NimzoBit",
+    "link":"https://horizon.market/explorer/assets/COCOHOMER",
+    "image":"https://www.arweave.net/3SJxmMFS8hYBDEkOr-pWPIsHuH5hLBgZd_qUgk0QvEE/COCOHOMER.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 6",
+    "asset":"PICOKOCHU",
+    "issuance":"21",
+    "artist":"NimzoBit",
+    "link":"https://horizon.market/explorer/assets/PICOKOCHU",
+    "image":"https://www.arweave.net/F9Srli0LiUVCEPGcqfZIBs1QVHgZn1onU7q34K0Wncg/PICOKOCHU.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 7",
+    "asset":"COCORANGE",
+    "issuance":"21",
+    "artist":"NimzoBit",
+    "link":"https://horizon.market/explorer/assets/COCORANGE",
+    "image":"https://www.arweave.net/8lmjdPng_BF5kU6eNwLAw8Bn8fRSMzUShHhznhiXFII/COCORANGE.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 8",
+    "asset":"BASEDCOCO",
+    "issuance":"100",
+    "artist":"DeGen X",
+    "link":"https://horizon.market/explorer/assets/BASEDCOCO",
+    "image":"https://www.arweave.net/GBSqGfdCB-Tg62oR2Zp1q8jAlpzZIZteVqvTFXOsqHU/BASEDCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 9",
+    "asset":"RDYTODNKCOCO",
+    "issuance":"112",
+    "artist":"DeGen X",
+    "link":"https://horizon.market/explorer/assets/RDYTODNKCOCO",
+    "image":"https://www.arweave.net/y7tUTExYaGEsQ9G44ylqcJ9nAw0he19pGgATuCYNnXc/RDYTODNKCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 10",
+    "asset":"COCOKANECARD",
+    "issuance":"200",
+    "artist":"DeGen X",
+    "link":"https://horizon.market/explorer/assets/COCOKANECARD",
+    "image":"https://www.arweave.net/ScnXpArcF5yVhMJhj6odrReNihQOFqLyp420UoNumO4/COCOKANECARD.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 11",
+    "asset":"MAXXCOCO",
+    "issuance":"200",
+    "artist":"DeGen X",
+    "link":"https://horizon.market/explorer/assets/MAXXCOCO",
+    "image":"https://www.arweave.net/bcnHhvxlxeNcnIwtNq90qPb1BOA9Ak0zxRyQEYUD8y0/MAXXCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 12",
+    "asset":"FLORYDACOCO",
+    "issuance":"100",
+    "artist":"DeGen X",
+    "link":"https://horizon.market/explorer/assets/FLORYDACOCO",
+    "image":"https://www.arweave.net/Xw5ZOFC5BVeUOIM31vcCNWcfY4muvF9id_UprJrXRus/FLORYDACOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 13",
+    "asset":"TRAPSTARCOCO",
+    "issuance":"100",
+    "artist":"DeGen X",
+    "link":"https://horizon.market/explorer/assets/TRAPSTARCOCO",
+    "image":"https://www.arweave.net/8VUBv8vjWgF6-tG5LHSBAwiPX8_yA3wFqlVXiG0SgrM/TRAPSTARCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 14",
+    "asset":"OCOCERAR",
+    "issuance":"300",
+    "artist":"Arwyn",
+    "link":"https://horizon.market/explorer/assets/OCOCERAR",
+    "image":"https://www.arweave.net/VnC8os9erkP4O0_bt0tqaeYrFq2YYNPK8AnUKLe9a3g/OCOCERAR.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 15",
+    "asset":"UNIPEPECORN.UNIPEPECOCO",
+    "issuance":"42",
+    "artist":"Arwyn",
+    "link":"https://horizon.market/explorer/assets/UNIPEPECORN.UNIPEPECOCO",
+    "image":"https://www.arweave.net/cUm-hiEY-0Fu3UVIn1OoiWyhGWQwvw8BAGXOHzZsIm8/UNIPEPECORN.UNIPEPECOCO.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 16",
+    "asset":"IMWITHKERO",
+    "issuance":"500",
+    "artist":"Arwyn",
+    "link":"https://horizon.market/explorer/assets/IMWITHKERO",
+    "image":"https://www.arweave.net/UkdcC3cUlLzrDyMnrNmoSJVH7AiWSN8ikVh4UloIEio/IMWITHKERO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 17",
+    "asset":"COCOBWARE",
+    "issuance":"21",
+    "artist":"Arwyn",
+    "link":"https://horizon.market/explorer/assets/COCOBWARE",
+    "image":"https://www.arweave.net/Ww4_8BD3rsvlpv_AODgNuOOUPkSpIEqV5LsO797yB4U/COCOBWARE.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 18",
+    "asset":"FRENTECH",
+    "issuance":"69",
+    "artist":"HNFT Pepe",
+    "link":"https://horizon.market/explorer/assets/FRENTECH",
+    "image":"https://www.arweave.net/dUe3Pag8CbZH50PoBIp4QRUllfpCoCyhgTRI8bLpPA4/FRENTECH.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 19",
+    "asset":"GRANTCOCO",
+    "issuance":"42",
+    "artist":"Rare Jay",
+    "link":"https://horizon.market/explorer/assets/GRANTCOCO",
+    "image":"https://www.arweave.net/z3RCyokwYWFDTDPY9QZNu3HtaS4s5B5lcDzr8ssfaN0/GRANTCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 20",
+    "asset":"GRIMCOCO",
+    "issuance":"42",
+    "artist":"Rare Jay",
+    "link":"https://horizon.market/explorer/assets/GRIMCOCO",
+    "image":"https://www.arweave.net/LxlYiCJpB-lCqh3RYIA8w9VCdUIb765moPzMKxDEOzg/GRIMCOCO.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 21",
+    "asset":"ENDLESSCOCO",
+    "issuance":"111",
+    "artist":"Bbleiztz",
+    "link":"https://horizon.market/explorer/assets/ENDLESSCOCO",
+    "image":"https://www.arweave.net/JL8P4q79tLkRD8LiJ0psWRROgT1hzpd80DX_JVZ3-dM/ENDLESSCOCO.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 22",
+    "asset":"COCONOTREAL",
+    "issuance":"15",
+    "artist":"Ceffie",
+    "link":"https://horizon.market/explorer/assets/COCONOTREAL",
+    "image":"https://www.arweave.net/9Ljv0sgDbH40vfyCrD67f3D4RLTsiK_jAcgLel4OYm8/COCONOTREAL.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 23",
+    "asset":"COCONOTREAL.GHG",
+    "issuance":"69",
+    "artist":"Ceffie",
+    "link":"https://horizon.market/explorer/assets/COCONOTREAL.GHG",
+    "image":"https://www.arweave.net/yKSPvXFSk0WpfphER3q_uBEMvjlawzqvUfFKU_6cKII/COCONOTREAL.GHG.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 24",
+    "asset":"RARESLIMCOCO",
+    "issuance":"69",
+    "artist":"Majoni",
+    "link":"https://horizon.market/explorer/assets/RARESLIMCOCO",
+    "image":"https://www.arweave.net/K78pn3y2y-d41mwQhfJJfa5tkDa5w1IcEXqmkJnTrYY/RARESLIMCOCO.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 25",
+    "asset":"COCOBAIN",
+    "issuance":"69",
+    "artist":"Monk Q",
+    "link":"https://horizon.market/explorer/assets/COCOBAIN",
+    "image":"https://www.arweave.net/hifbDkekv5jAZQjTwJAzsa9u82RjIs_vZMqFOmnQi0g/COCOBAIN.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 26",
+    "asset":"COCOBRUUUSH",
+    "issuance":"30",
+    "artist":"FWD",
+    "link":"https://horizon.market/explorer/assets/COCOBRUUUSH",
+    "image":"https://www.arweave.net/u62V8O-tzPSk4NqLWdermkbneAAKt7EPp12id5clGB0/COCOBRUUUSH.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 27",
+    "asset":"VATOSCOCOS",
+    "issuance":"13",
+    "artist":"M0nti",
+    "link":"https://horizon.market/explorer/assets/VATOSCOCOS",
+    "image":"https://www.arweave.net/jYMHzj88waq6GrgdRnTkNOGipFlnFPlZj0e2oaLdZH0/VATOSCOCOS.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 28",
+    "asset":"COCOGOD",
+    "issuance":"100",
+    "artist":"Lu Ambriz",
+    "link":"https://horizon.market/explorer/assets/COCOGOD",
+    "image":"https://www.arweave.net/JypNsQG9y_LtnGXM8RTy3dYeNLe8nJuPYSTPiQJNLWA/COCOGOD.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 29",
+    "asset":"A1749565892089555200",
+    "issuance":"69",
+    "artist":"Regan",
+    "link":"https://horizon.market/explorer/assets/A1749565892089555200",
+    "image":"https://www.arweave.net/s6EaAQzFzSlQZLskmBvYF-Cc6QV6dIA6bjA4HPDLcMc/A1749565892089555200.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 30",
+    "asset":"MRTLCOCOMBAT",
+    "issuance":"69",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/MRTLCOCOMBAT",
+    "image":"https://www.arweave.net/_O6f8kJqs4SR4MDUCkeqJdcV5Q6MyxI-rybSeyNZ_-4/MRTLCOCOMBAT.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 31",
+    "asset":"COCOHOMERED",
+    "issuance":"69",
+    "artist":"Sam M",
+    "link":"https://horizon.market/explorer/assets/cocohomered",
+    "image":"https://www.arweave.net/DJ26Fvuc6jgWnEEjmX5_Ldeqqy_ural4uVzEpi5IS3I/COCOHOMERED.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 32",
+    "asset":"COCOMIAMI",
+    "issuance":"42",
+    "artist":"Simon Morris",
+    "link":"https://horizon.market/explorer/assets/COCOMIAMI",
+    "image":"https://www.arweave.net/pmle8IPaQevJPr-1b-m5y2ewjSrJ4wMmYjsVUlWKi1c/COCOMIAMI.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 33",
+    "asset":"COCOTONE",
+    "issuance":"1000",
+    "artist":"Majoni",
+    "link":"https://horizon.market/explorer/assets/COCOTONE",
+    "image":"https://www.arweave.net/FFUnV_ElmEvhg0Ae8TPoEPxrdr0cty-lf4aun5NDoqo/COCOTONE.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 34",
+    "asset":"RICHCOCOMOND",
+    "issuance":"69",
+    "artist":"NimzoBit",
+    "link":"https://horizon.market/explorer/assets/RICHCOCOMOND",
+    "image":"https://www.arweave.net/zCKTAyBpzO--hweJnVKBVbqh7pZ2nz-5NeHlI3eksnw/RICHCOCOMOND.gif"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 35",
+    "asset":"A9942055563966637280",
+    "issuance":"111",
+    "artist":"Kero",
+    "link":"https://horizon.market/explorer/assets/A9942055563966637280",
+    "image":"https://www.arweave.net/OFUMS5oRJHYKIprj-j4dQldol4s6OWQjfmKKw-Xjzvc/A9942055563966637280.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 36",
+    "asset":"COCOREVELS",
+    "issuance":"100",
+    "artist":"MemeKingArt",
+    "link":"https://horizon.market/explorer/assets/COCOREVELS",
+    "image":"https://www.arweave.net/9AEdlrrPimhERfeiZ7CgZECsOjQ9gc2G6CQSVUcBwos/COCOREVELS.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 37",
+    "asset":"COMNCOCOCASH",
+    "issuance":"21000000",
+    "artist":"HNFT Pepe",
+    "link":"https://horizon.market/explorer/assets/COMNCOCOCASH",
+    "image":"https://www.arweave.net/MJX8pa7AAOfV3EQ0FkPWn3NKCTaQX9RMOATppheBFPQ/COMNCOCOCASH.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 38",
+    "asset":"COCOCOUPLE",
+    "issuance":"100",
+    "artist":"MemeKingArt",
+    "link":"https://horizon.market/explorer/assets/COCOCOUPLE",
+    "image":"https://www.arweave.net/kduNO0dmNrH9pV3A-mzDp6ursqtweZNWSUrLNn40y-k/COCOCOUPLE.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 39",
+    "asset":"COCOFRENZ",
+    "issuance":"69",
+    "artist":"Sam M",
+    "link":"https://horizon.market/explorer/assets/COCOFRENZ",
+    "image":"https://www.arweave.net/oNwgGBByJTydYZA1MlLT5iR7gsrXueNc4grb3YNuLwE/COCOFRENZ.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 40",
+    "asset":"COCOHAPPINES",
+    "issuance":"100",
+    "artist":"Otim Batty",
+    "link":"https://horizon.market/explorer/assets/COCOHAPPINES",
+    "image":"https://www.arweave.net/4jQt5_sP4OWTt6EG3jpbLJfyjtVcWjVPdzvH4-56EAI/COCOHAPPINESS.jpg"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 41",
+    "asset":"HECOCO",
+    "issuance":"99",
+    "artist":"Majoni",
+    "link":"https://horizon.market/explorer/assets/HECOCO",
+    "image":"https://www.arweave.net/y4Ihqp8UNb7hxF-DSSGmIf3KB7Kk5E8pEDYUr2313XI/HECOCO.png"
+  },
+  {
+    "series":"Series 1",
+    "card":"Card 42",
+    "asset":"COCOPOPZ",
+    "issuance":"420",
+    "artist":"Darky",
+    "link":"https://horizon.market/explorer/assets/COCOPOPZ",
+    "image":"https://www.arweave.net/FXoAsqzK9gkTimeSIOt6YdJQ13XhGZN25_y1J-aJjPM/COCOPOPZ.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 1",
+    "asset":"MAMACOCO",
+    "issuance":"33",
+    "artist":"Rare Jay",
+    "link":"https://horizon.market/explorer/assets/MAMACOCO",
+    "image":"https://www.arweave.net/fDrFFewLnExJHM3WDRAG7rT2elarZEFJ2bGIHUd1J2k/MAMACOCO.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 2",
+    "asset":"COCOPEP",
+    "issuance":"69",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/COCOPEP",
+    "image":"https://www.arweave.net/c5aeajHy4LdSPLcSWCm8wLs7cPIby3nHAFqXaZX3SQ0/COCOPEP.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 3",
+    "asset":"BITCOCO",
+    "issuance":"69",
+    "artist":"Robenira",
+    "link":"https://horizon.market/explorer/assets/BITCOCO",
+    "image":"https://www.arweave.net/C8GVVAhtusl6rb-Oyrrrjow8tH_L-tpWIFKZL20pd7U/BITCOCO.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 4",
+    "asset":"COCOPASTOR",
+    "issuance":"100",
+    "artist":"MemeKingArt",
+    "link":"https://horizon.market/explorer/assets/COCOPASTOR",
+    "image":"https://www.arweave.net/B9XpHsZmHRQAJOu-uHmyw2TVNnZTRG13xxRUB_-qngo/COCOPASTOR.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 5",
+    "asset":"BOATSNHOES",
+    "issuance":"69",
+    "artist":"HNFT Pepe",
+    "link":"https://horizon.market/explorer/assets/BOATSNHOES",
+    "image":"https://www.arweave.net/KacXkL24u5a5Jb7V7Z1zWxUVJ9P4yGPFAbJ1YnordUo/BOATSNHOES.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 6",
+    "asset":"COCOKINGBIT",
+    "issuance":"69",
+    "artist":"Ceffie",
+    "link":"https://horizon.market/explorer/assets/COCOKINGBIT",
+    "image":"https://www.arweave.net/nGm3A-1qhGC2na3JIfnVICDnvgJ5vyGrD3o2QyU433M/COCOKINGBIT.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 7",
+    "asset":"RLRCOCOASTER",
+    "issuance":"69",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/RLRCOCOASTER",
+    "image":"https://www.arweave.net/_xCYIIv-JHnPcw3l9lIYmJFdOfbkm7T_jpQhWLQ6WxA/RLRCOCOASTER.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 8",
+    "asset":"COCOBABA",
+    "issuance":"150",
+    "artist":"MemeKingArt",
+    "link":"https://horizon.market/explorer/assets/COCOBABA",
+    "image":"https://www.arweave.net/C7fIcRMaVVEko52ULcn30Wub2iekAoKhvuTw3akdfU4/COCOBABA.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 9",
+    "asset":"COCOMMANDO",
+    "issuance":"42",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/COCOMMANDO",
+    "image":"https://www.arweave.net/RCSuVB6lAZUnmUY-1lIfFuekR4Q39zG5c3TLKvRgwQY/COCOMMANDO.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 10",
+    "asset":"COCOQUETTE",
+    "issuance":"69",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/COCOQUETTE",
+    "image":"https://www.arweave.net/4okVjmwoJTqzYyjznpg2FGmIuUsa2xBNKVVg7qzE-Bg/COCOQUETTE.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 11",
+    "asset":"MULLETCOCO.COCO-SALUTATIONS",
+    "issuance":"69",
+    "artist":"Le Hues",
+    "link":"https://horizon.market/explorer/assets/MULLETCOCO.COCO-SALUTATIONS",
+    "image":"https://www.arweave.net/q521eiovtPdCazKPjhN78fHCZHeZXPYlx6trS9uv3ag/MULLETCOCO.COCO-SALUTATIONS.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 12",
+    "asset":"COCONFIDENT",
+    "issuance":"32",
+    "artist":"BLISSFULMORG",
+    "link":"https://horizon.market/explorer/assets/COCONFIDENT",
+    "image":"https://www.arweave.net/dkQuOQMjfiJtcWyI_sMSC-BcbJDBHgySrcdIyA_8hwU/COCONFIDENT.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 13",
+    "asset":"FEELSSNAPMAN",
+    "issuance":"42",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/FEELSSNAPMAN",
+    "image":"https://www.arweave.net/KoNPU5VMANIsFEMxUmZ4qK9WBe-Mu8-ZfvJT7jQK0PA/FEELSSNAPMAN.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 14",
+    "asset":"COCOBIRTHDAY",
+    "issuance":"150",
+    "artist":"MemeKingArt",
+    "link":"https://horizon.market/explorer/assets/COCOBIRTHDAY",
+    "image":"https://www.arweave.net/3-lNV7FFOA15YEhlz4HNw8D9KsAkuxSB0LjsV4y3G3g/COCOBIRTHDAY.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 15",
+    "asset":"COVINTAGE",
+    "issuance":"32",
+    "artist":"BLISSFULMORG",
+    "link":"https://horizon.market/explorer/assets/COVINTAGE",
+    "image":"https://www.arweave.net/4EZaHbXOzM0HmfMDi33ngxOJgeJH25W-HCtDYH2aflU/COVINTAGE.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 16",
+    "asset":"COCOCHECKS",
+    "issuance":"237",
+    "artist":"BillyNFTees",
+    "link":"https://horizon.market/explorer/assets/COCOCHECKS",
+    "image":"https://www.arweave.net/jLrmlTy7fHWqIl8wVxhA7590cdj50jw-v2ONqrdu7J4/COCOCHECKS.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 17",
+    "asset":"COCORONA",
+    "issuance":"32",
+    "artist":"L_vs_D",
+    "link":"https://horizon.market/explorer/assets/COCORONA",
+    "image":"https://www.arweave.net/6TLkuG_R9rt3i6OKGWSVFNpc_RcGSUm7t817fNsSAH4/COCORONA.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 18",
+    "asset":"COCODEAL",
+    "issuance":"77",
+    "artist":"L_vs_D",
+    "link":"https://horizon.market/explorer/assets/COCODEAL",
+    "image":"https://www.arweave.net/XWJiYQMi77mwikg1fn8NL96ARQZ7IHop1SsIRrfiIV4/COCODEAL.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 19",
+    "asset":"NOCO",
+    "issuance":"100",
+    "artist":"Pitoopi",
+    "link":"https://horizon.market/explorer/assets/NOCO",
+    "image":"https://www.arweave.net/XcWjcNlslg34dBdUIAgSEtW-H5IfGNRwNRJ7Q7VAG-Q/NOCO.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 20",
+    "asset":"COCOROSS",
+    "issuance":"35",
+    "artist":"Y8R4",
+    "link":"https://horizon.market/explorer/assets/COCOROSS",
+    "image":"https://www.arweave.net/EnrMHV3Ecw49U6q23JeU9fZn9C0xt4N97Gi9PxGztQA/COCOROSS.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 21",
+    "asset":"TRUMPCOCO",
+    "issuance":"150",
+    "artist":"Otim Batty",
+    "link":"https://horizon.market/explorer/assets/TRUMPCOCO",
+    "image":"https://www.arweave.net/pyOSbbNJ5lmnHjZ2-cP0ZsFbImSX2pjwse7RmkhJvqk/TRUMPCOCO.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 22",
+    "asset":"COCODILES",
+    "issuance":"99",
+    "artist":"subterranean",
+    "link":"https://horizon.market/explorer/assets/COCODILES",
+    "image":"https://www.arweave.net/CDkUPGZynb2BGZh1QKvU0pDuoMt679YmMAB7C0G3o6g/COCODILES.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 23",
+    "asset":"A438920412538506021",
+    "issuance":"21",
+    "artist":"TonyNL",
+    "link":"https://horizon.market/explorer/assets/A438920412538506021",
+    "image":"https://www.arweave.net/slqH_5mzoIDk2LP5nqInsBZj5WkrG0WkVJFcQScllj8/A438920412538506021.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 24",
+    "asset":"COCOFRONT",
+    "issuance":"1",
+    "artist":"NimZobit",
+    "link":"https://horizon.market/explorer/assets/COCOFRONT",
+    "image":"https://www.arweave.net/7C139RE-JYT3TIXiK4e-iigAHi6_Og2kRCIn5WFVvJo/COCOFRONT.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 25",
+    "asset":"SLOCOCO",
+    "issuance":"21",
+    "artist":"NimZobit",
+    "link":"https://horizon.market/explorer/assets/SLOCOCO",
+    "image":"https://www.arweave.net/spn2KgbQJDTcuTBE-r0iYtnq0mUfFKoJnKWGtDIYpWU/SLOCOCO.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 26",
+    "asset":"COCAI",
+    "issuance":"69",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/COCAI",
+    "image":"https://www.arweave.net/E_4m737InN3AXqkGqIbvVoHdgAlcvA8F0tGD8SIa7uk/COCAI.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 27",
+    "asset":"COCOTRUMPETR",
+    "issuance":"150",
+    "artist":"MemeKingArt",
+    "link":"https://horizon.market/explorer/assets/COCOTRUMPETR",
+    "image":"https://www.arweave.net/VvmQJ_gShVLJ70vnyD5_wAk9qnpSNpNUeQRuHnNbfMg/COCOTRUMPETR.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 28",
+    "asset":"A1414924442491970994",
+    "issuance":"100",
+    "artist":"Bbleiztz",
+    "link":"https://horizon.market/explorer/assets/A1414924442491970994",
+    "image":"https://www.arweave.net/jZMA7KDSARtaNWjMsEE2EJZjtusrOQbUDh6hqsbMw28/A1414924442491970994.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 29",
+    "asset":"HANDSOMECOCO",
+    "issuance":"30",
+    "artist":"RahvOart",
+    "link":"https://horizon.market/explorer/assets/HANDSOMECOCO",
+    "image":"https://www.arweave.net/G_wN2pjHIyABmU8TYGc6gnPC6J5hwl6F8uye1MKtZ4A/HANDSOMECOCO.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 30",
+    "asset":"COCOLIGHTER",
+    "issuance":"300",
+    "artist":"Blake",
+    "link":"https://horizon.market/explorer/assets/COCOLIGHTER",
+    "image":"https://www.arweave.net/TWp__K07XauRjTz5GVxaR2DF1_JEYjX-vCZhMijvTzg/COCOLIGHTER.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 31",
+    "asset":"COCOMEMPOOL",
+    "issuance":"100",
+    "artist":"NimZobit",
+    "link":"https://horizon.market/explorer/assets/COCOMEMPOOL",
+    "image":"https://www.arweave.net/vR9r1-Nu_6HirjIkDKR7lkV7byeD6WTC1LfAwlsjL84/COCOMEMPOOL.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 32",
+    "asset":"COCOBEGGAR",
+    "issuance":"69",
+    "artist":"Coriot",
+    "link":"https://horizon.market/explorer/assets/COCOBEGGAR",
+    "image":"https://www.arweave.net/zC6Bcvwlhq2mcSq-T2swhS98uo3tUG1xJYbjELJXD3c/COCOBEGGAR.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 33",
+    "asset":"COCOFRENS",
+    "issuance":"50",
+    "artist":"Simon Morris",
+    "link":"https://horizon.market/explorer/assets/COCOFRENS",
+    "image":"https://www.arweave.net/n3F2rHcZo1PAvV4TM4HfrU_5kkIeUJQbLFfYgd15peg/COCOFRENS.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 34",
+    "asset":"COCOLLAB",
+    "issuance":"42",
+    "artist":"Sasha Chudo",
+    "link":"https://horizon.market/explorer/assets/COCOLLAB",
+    "image":"https://www.arweave.net/_SYhiwaV8EkyqGZhyNgvBRJEa4bxQ_bVxNCs3lmD_VM/COCOLLAB.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 35",
+    "asset":"COCOCHICK",
+    "issuance":"69",
+    "artist":"Sasha Chudo",
+    "link":"https://horizon.market/explorer/assets/COCOCHICK",
+    "image":"https://www.arweave.net/LcjrI1BEnCbQnnztqoOIqiVyGKxPHS-REggjI51qLMA/COCOCHICK.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 36",
+    "asset":"COCOCROCS",
+    "issuance":"420",
+    "artist":"Darky",
+    "link":"https://horizon.market/explorer/assets/COCOCROCS",
+    "image":"https://www.arweave.net/VHEchEYeUr1tCark9Ac-eWrKPVBGfGr8GUlU53JeU2s/COCOCROCS.jpg"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 37",
+    "asset":"COCOCRIMINAL",
+    "issuance":"42",
+    "artist":"Sasha Chudo",
+    "link":"https://horizon.market/explorer/assets/COCOCRIMINAL",
+    "image":"https://www.arweave.net/S40Suzahdlpn-7l0uvurKvARBZ9zTpW4kCeAgXoSgNU/COCOCRIMINAL.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 38",
+    "asset":"COCASCII",
+    "issuance":"42",
+    "artist":"psyfrogger",
+    "link":"https://horizon.market/explorer/assets/COCASCII",
+    "image":"https://www.arweave.net/hpKb6yD-aPDzs0WaoQl4PUO5ZJpAKzh7JaW8yUmkkeY/COCASCII.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 39",
+    "asset":"A666240355190303432",
+    "issuance":"33",
+    "artist":"Lu Ambriz",
+    "link":"https://stamped.ninja/stamp/A666240355190303432",
+    "image":"https://www.arweave.net/sDuh7L_uRB6E0zKjIrM0LJcWQIJJVukEGfDXBpS9ReE/A666240355190303432.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 40",
+    "asset":"FELACOA",
+    "issuance":"30",
+    "artist":"RahvOart",
+    "link":"https://horizon.market/explorer/assets/FELACOA",
+    "image":"https://www.arweave.net/iZ39Vd9lXjTxY_64p7CPLQz4erXtUiEmrzc2mM1JUKg/FELACOA.png"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 41",
+    "asset":"COCOINFERNO",
+    "issuance":"69",
+    "artist":"Sam M",
+    "link":"https://horizon.market/explorer/assets/COCOINFERNO",
+    "image":"https://www.arweave.net/s7ZT_LMcdTzy-CY1L_JW0WIiYkVsY_Z0M2DAD6MoN48/COCOINFERNO.gif"
+  },
+  {
+    "series":"Series 2",
+    "card":"Card 42",
+    "asset":"OTOSCOCO",
+    "issuance":"32",
+    "artist":"BLISSFULMORG",
+    "link":"https://horizon.market/explorer/assets/OTOSCOCO",
+    "image":"https://www.arweave.net/Wl6xXYi6o_miEWrPpOiFKksdDP2PGrE9CLwNXP8enSo/OTOSCOCO.jpg"
+  },
+  {
+    "series":"Series 3",
+    "card":"Card 1",
+    "asset":"COCOSENTO",
+    "issuance":"21",
+    "artist":"tomopen",
+    "link":"https://horizon.market/explorer/assets/COCOSENTO",
+    "image":"https://www.arweave.net/xKUjYMmGXVwE6jUgShV0r1hK4n30gH5L8pVMYOHt0Yo/COCOSENTO.png"
+  },
+  {
+    "series":"Series 3",
+    "card":"Card 2",
+    "asset":"COCOROCK",
+    "issuance":"100",
+    "artist":"NimzoBit",
+    "link":"https://horizon.market/explorer/assets/COCOROCK",
+    "image":"https://www.arweave.net/eUffM2_tb3-BJQNEyWDOc0obldXws_Il54lVM33Smqg/COCOROCK.png"
+  },
+  {
+    "series":"Series 3",
+    "card":"Card 3",
+    "asset":"BULLCOCO",
+    "issuance":"31",
+    "artist":"Pacrmn",
+    "link":"https://horizon.market/explorer/assets/BULLCOCO",
+    "image":"https://www.arweave.net/xNYHbt7dHFHHEcpk2WQHi1Ia_7lm7MmUmoIsCQ4lkow/BULLCOCO.jpg"
+  },
+  {
+    "series":"Series 3",
+    "card":"Card 4",
+    "asset":"COUPLESZONE",
+    "issuance":"25",
+    "artist":"RahvOart",
+    "link":"https://horizon.market/explorer/assets/COUPLESZONE",
+    "image":"https://www.arweave.net/DGFkcP5aBWv4yftFvMd7DzxGYwCSwsqHFLNXjwQF2zU/COUPLESZONE.png"
+},
+  {
+    "series":"Series 4",
+    "card":"Card 5",
+    "asset":"COCOCONNECTA",
+    "issuance":"69",
+    "artist":"seelawrie",
+    "link":"https://horizon.market/explorer/assets/COCOCONNECTA",
+    "image":"https://www.arweave.net/NppQ6ng3URGa68mY26I0RcO3bvYn40eSOV4UxzVjPRo/COCOCONNECTA.gif"
+  },
+  {
+    "series":"Series 4",
+    "card":"Card 6",
+    "asset":"COCODILE",
+    "issuance":"69",
+    "artist":"codythecampbell",
+    "link":"https://horizon.market/explorer/assets/COCODILE",
+    "image":"https://www.arweave.net/iN-lEPTd09skblAoOKMArA3wv2yNY1gP3Mw75cetFTk/COCODILE.jpg"
+  },
+  {
+    "series":"Series 4",
+    "card":"Card 7",
+    "asset":"COCOTHECLOWN",
+    "issuance":"420",
+    "artist":"Darky",
+    "link":"https://horizon.market/explorer/assets/COCOTHECLOWN",
+    "image":"https://www.arweave.net/36w78HqMRv33DMF322SP7-V3WmaxQNLWKw9eSdR7aw8/COCOTHECLOWN.gif"
+  },
+  {
+    "series":"Series 4",
+    "card":"Card 8",
+    "asset":"HOTCOCO",
+    "issuance":"21",
+    "artist":"pinocchio",
+    "link":"https://horizon.market/explorer/assets/HOTCOCO",
+    "image":"https://www.arweave.net/P0XepvZYDalCUDPzVn888Hn1yzP0vYd8d9D-cVyq0Fs/HOTCOCO.png"
+  },
+  {
+    "series":"Series 4",
+    "card":"Card 9",
+    "asset":"COCOSURFPRTY",
+    "issuance":"11",
+    "artist":"Sea is Medicine",
+    "link":"https://horizon.market/explorer/assets/COCOSURFPRTY",
+    "image":"https://www.arweave.net/dD-mSaCgU94u1MYLzb1hkgfNCV-LM8ihFcU0PEc2SUU/COCOSURFPRTY.jpg"
+  },
+  {
+    "series":"Series 4",
+    "card":"Card 10",
+    "asset":"COCOADDICT",
+    "issuance":"69",
+    "artist":"Jimmy",
+    "link":"https://horizon.market/explorer/assets/COCOADDICT",
+    "image":"https://www.arweave.net/OuOk9kTgy81y2mJDnerYCI2YmnmeZC3GpvOa_rNY-Dk/COCOADDICT.jpg"
+  }
+] 
