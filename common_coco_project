@@ -844,5 +844,32 @@
     "artist":"Jimmy",
     "link":"https://horizon.market/explorer/assets/COCOADDICT",
     "image":"https://www.arweave.net/OuOk9kTgy81y2mJDnerYCI2YmnmeZC3GpvOa_rNY-Dk/COCOADDICT.jpg"
+  },
+{
+    "series":"Series 4",
+    "card":"Card 11",
+    "asset":"A18115452657520138000",
+    "issuance":"69",
+    "artist":"HNFT Pepe",
+    "link":"https://horizon.market/explorer/assets/A18115452657520138000",
+    "image":"https://www.arweave.net/6Rb949YKtLvvP_Q0a6RPrl8kbBlNBK0PmNJTysxaB1o/A18115452657520138000.jpg"
+  },
+{
+    "series":"Series 4",
+    "card":"Card 12",
+    "asset":"COCOFLAME",
+    "issuance":"100",
+    "artist":"EMperorWestern147",
+    "link":"https://horizon.market/explorer/assets/COCOFLAME",
+    "image":"https://www.arweave.net/DeaTQG-xea79XqaW_M_W1v2UObUisw6Md5mQ716p6ok/cocoflame.jpg"
+  },
+{
+    "series":"Series 4",
+    "card":"Card 13",
+    "asset":"COCOCASINO",
+    "issuance":"99",
+    "artist":"EMperorWestern147",
+    "link":"https://horizon.market/explorer/assets/COCOCASINO",
+    "image":"https://www.arweave.net/xvDY05b5ce_R19Kmla1NcF4VYDBVMsdlU_KGd0QNkxI/cococasino.jpg"
   }
 ] 
